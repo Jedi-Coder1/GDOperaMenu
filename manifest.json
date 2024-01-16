@@ -1,0 +1,34 @@
+{
+   "description": "Geometry Dash Main Menu",
+   "developer": {
+      "name": "JediMinecraft1"
+   },
+   "icons": {
+      "512": "Logo_512.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAw4b+9tPhy1buMc+pH7022PFOenyMtsqQpyUprVB/kIeFqFQa5AqXK12e1gTCjEJjKuKfd1h0bNoz3cHiVVrDoP0h2qFbSHCmW2lTaT/npnFt3RX5GBTZnn2FOlnaB0MT3Wk3tPbUyJDKFQNkFntgKBysMlftXu0dqBLCgLsS5YAtVMR0tIEcKaplaKadzZEK7e0uEaZIvznMF9h88S1S6d3eW8xmqw7te/4hHHfLwXCzLqSExcSMjMUYH3Q19WVr4Tbz7qRvLjgMX7UH2rC/Jrg9sd0US/6KMq8vQQuwFrAsdfGrJ8zw9DnaK8x76dMn5rT69/892USKeMVJuZUKRwz4xLYTe1RZzcn9Jsw/8L3eZLkqi5wx+AlgdzEBlXMKtOC078KunQcoGh2uhXlA51kHNlahlGSycDmTmbE6wLYe2ATiuW609nqVvjSdFUH6Fiq/abxUjqPP85m1UGXTkRzcyT/8VDShKcPnxiw7lvhbam+C5JmCxm/1t7AcdBumhn86pLrZxGD2T5icGvGHbZxyLgHLHfBV7vI+iCyqjdl0LdBCJpLSSfOTkYg+iflgpCJV6omXwiQmMIrNz+L7poQQvPVyMn4VBhLml8yh4/zu9PZIuD2EneNPBw7gULaP7HuKrJ3Wp2KX7qpjV5lb3YwQSIir1fiinoQ4Gfh4uU8CAwEAAQ==",
+   "manifest_version": 3,
+   "mod": {
+      "payload": {
+         "background_music": [ "music/Theme.mp3" ],
+         "wallpaper": {
+            "dark": {
+               "first_frame": "wallpaper/first.jpg",
+               "image": "wallpaper/Menu.webm",
+               "text_color": "#ffffff",
+               "text_shadow": "#ffffff"
+            },
+            "light": {
+               "first_frame": "wallpaper/first.jpg",
+               "image": "wallpaper/Menu.webm",
+               "text_color": "#ffffff",
+               "text_shadow": "#00ff00"
+            }
+         }
+      },
+      "schema_version": 1
+   },
+   "name": "Geometry Dash Main Menu",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "version": "1.0"
+}
